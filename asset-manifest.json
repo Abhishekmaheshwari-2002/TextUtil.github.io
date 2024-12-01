@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtil.github.io/static/css/main.ac7412b4.css",
+    "main.js": "/TextUtil.github.io/static/js/main.e3dc4ce5.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextUtil.github.io/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextUtil.github.io/index.html",
+    "main.ac7412b4.css.map": "/TextUtil.github.io/static/css/main.ac7412b4.css.map",
+    "main.e3dc4ce5.js.map": "/TextUtil.github.io/static/js/main.e3dc4ce5.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextUtil.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7412b4.css",
+    "static/js/main.e3dc4ce5.js"
+  ]
+}
